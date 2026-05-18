@@ -28,5 +28,11 @@ public class Main {
         String productName = "laptop";
         double priceDollar = 999.99;
         System.out.println("The price of the " + productName + " is $" + priceDollar);
+
+        //small amth example
+        int length = 10;
+        int width = 2;
+        int area = length * width;
+        System.out.println("The area of the rectangle is: " + area);
     }
 }

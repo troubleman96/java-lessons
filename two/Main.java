@@ -19,5 +19,14 @@ public class Main {
         int x = 5;
         int y = 6;
         System.out.println(x + y);
+
+        //constants in java
+        final double pi = 3.14;
+        System.out.println(pi);
+
+        //realworld example
+        String productName = "laptop";
+        double priceDollar = 999.99;
+        System.out.println("The price of the " + productName + " is $" + priceDollar);
     }
 }

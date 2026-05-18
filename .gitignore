@@ -1,0 +1,6 @@
+# Compiled Java bytecode
+*.class
+
+# Optional IDE metadata
+.vscode/
+.idea/

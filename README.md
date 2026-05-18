@@ -18,16 +18,20 @@ This repository tracks my journey to learn Java deeply, step by step, with focus
 
 ## Current Structure
 
-one/
+lesson01/
+- Main.java
+lesson02/
+- Main.java
+lesson03/
 - Main.java
 
 ## How To Run Current Lesson
 
-From the repository root:
+From the repository root (example for lesson01):
 
 ```bash
-javac one/Main.java
-java one.Main
+javac lesson01/Main.java
+java lesson01.Main
 ```
 
 Expected output:
